@@ -12,3 +12,4 @@ Release
 * Update API docs (ghpages-push-site).
 * Update wiki.
 * Publish herald notes (after Central sync).
+* Draft a release in Github ui.
